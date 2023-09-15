@@ -1,0 +1,2 @@
+Esse aplicativo testa as aplicações sobre API em um aplicativo desenvolvido em SwiftUI, feito com Asyncimage e criação de arrays que pegam informações por uma URL.
+(Esse aplicativo foi feito para estudar as API em um aplicativo, não são feitos como um projeto completo)
