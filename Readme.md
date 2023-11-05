@@ -1,7 +1,7 @@
 
 # 🔱 Rick and Morty API
 
-Nesse projeto, desenvolvi um aplicativo para testar meus conhecimentos em APIs e o uso delas em códigos.
+Nesse projeto, juntei minha paixão por Rick and Morty e meus estudos sobre APIs
 
 Esse projeto foi feito na linguagem Swift no Xcode
 
